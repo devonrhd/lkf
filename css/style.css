@@ -1,4 +1,9 @@
 
+.bg-primary{
+    color: green;
+}
+
+
 /*** Spinner Start ***/
 #spinner {
     opacity: 0;
@@ -885,8 +890,4 @@
     border-top: 1px solid rgba(255, 255, 255, .08);
 }
 /*** copyright end ***/
-
-.bg-primary{
-    color: green;
-}
 
